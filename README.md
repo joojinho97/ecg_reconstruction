@@ -1,6 +1,7 @@
 <p align="center">
  
- <h2 align="center">ECG_Reconstruction(under review)</h2>
+ <h2 align="center">Reconstructing Twelve-Lead ECG Signals from Single-Lead Signals Using
+Generative Adversarial Networks(under review)</h2>
 
 ### Subject : ECG_Reconstruction for detect multi label diseases
 
