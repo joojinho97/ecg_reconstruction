@@ -27,7 +27,7 @@ def calculate_metric(y_true, y_pred, data_len, generator, generator2=None):
         RMSE.update_state(y_true[j][2:13, :, :], y_pred[j][2:13, :, :])
         result += np.sqrt(RMSE.result().numpy())
     print('RMSE keras :', result / data_len)
-
+                                                                                         
     result = 0
     for j in range(data_len):
         result += rmse(y_true[j][2:13, :, :], y_pred[j][2:13, :, :])
