@@ -9,7 +9,7 @@ Generative Adversarial Networks(under review)</h2>
 -   model name EKGAN(Elektrokardiogramm GAN)      
  <br/>
  
- <p align="center">
+ <p align="center">  
   <img src="https://user-images.githubusercontent.com/81897022/211444031-9ad4e7a6-7851-44ff-94b0-c49f2827f222.png" alt="text" width="number" />
 </p>
 
