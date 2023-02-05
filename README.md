@@ -5,7 +5,7 @@ Generative Adversarial Networks(under review)</h2>
 
 ### Subject : ECG_Reconstruction for detect multi label diseases
  
--   we focus 12 Lead ECG from Lead I
+-   we focus 12 Lead ECG from Lead I 
 -   model name EKGAN(Elektrokardiogramm GAN)      
  <br/>
  
