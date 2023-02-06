@@ -30,7 +30,7 @@ Generative Adversarial Networks(under review)</h2>
 
 
  <br/>
-</p>
+</p> 
  
  ![fig-reconstruction (2)](https://user-images.githubusercontent.com/81897022/211257601-fa974428-2579-4a56-bd4d-08d9bed0dfa4.png)
 
