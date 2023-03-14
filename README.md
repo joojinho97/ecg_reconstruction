@@ -16,7 +16,7 @@ Generative Adversarial Networks(under review)</h2>
 ### ECG domain
 -   12 Lead ECG provides spatial information about heart's electrical activity in 3 approximately orthogonal directions
 -   12 Lead ECG consist of Standard Limb Leads(Lead I, Lead II, Lead III), Augmented Limb Leads(aVR, aVF, aVL) and Precordial Lead(V1, V2, V3, V4, V5, V6)
-
+ 
 -   Lead I : RA (-) to LA (+) (Right Left, or lateral)
 -   Lead II: RA (-) to LL (+) (Superior Inferior)
 -   Lead III: LA (-) to LL (+) (Superior Inferior)
